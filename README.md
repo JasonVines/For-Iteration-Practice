@@ -1,4 +1,4 @@
-# For-Iteration-Practice
+# For-Iteration Practice
 
 Requirements
 
@@ -15,6 +15,8 @@ Current value is 15
 Current value is 25
 
 ...
+
+
 Decrement by division
 
 Write a for loop with a counter variable initialized at 4096. Each time the loop executes divide the counter variable's value by 2. Use console.log() to output its value every time. When the counter variable's value is 1, stop execution.
@@ -28,6 +30,8 @@ Current value is 2048
 Current value is 1024
 
 ...
+
+
 Array iteration
 
 Create an array that contains the names of American Presidents. Loop over that array with a for loop, and use string concatenation with console.log() to output the order and name of each President (see example below).
@@ -41,6 +45,8 @@ President #2 was John Adams
 President #3 was Thomas Jefferson
 
 ...
+
+
 Object iteration
 
 You can use another kind of for loop to iterate over objects. Iterate over the object below and use console.log() to output the names of the keys in the object.
@@ -58,4 +64,3 @@ var antSpecies = {
   honeyPot: {},
   jackJumper: {}
 }
-
